@@ -19,7 +19,13 @@ To run the code:
 
 1. Ensure you have Python installed along with the required libraries (`matplotlib`, `numpy`, `scipy`).
 2. Clone this repository to your local machine or copy and paste the code.
-3. The plot will be displayed, showing the data points, line of best fit, and relevant annotations.
+3. Run the script using a Python interpreter:
+
+    ```bash
+    python gamma_radiation_intensity.py
+    ```
+
+4. The plot will be displayed, showing the data points, line of best fit, and relevant annotations.
 
 ## Practical Experiment
 
